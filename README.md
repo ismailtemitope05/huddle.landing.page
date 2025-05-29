@@ -39,7 +39,7 @@ Users should be able to:
 ### Links
 
 - **Solution URL:** [https://github.com/ismailtemitope05/huddle.landing.page](https://github.com/ismailtemitope05/huddle.landing.page)
-.- **Live Site URL:** [https://ismailtemitope05.github.io/huddle.landing.page](https://ismailtemitope05.github.io/huddle.landing.page)
+- **Live Site URL:** [https://ismailtemitope05.github.io/huddle.landing.page](https://ismailtemitope05.github.io/huddle.landing.page)
 
 ---
 
