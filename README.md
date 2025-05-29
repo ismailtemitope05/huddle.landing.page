@@ -1,7 +1,4 @@
-Great! Here's your updated `README.md` in **Markdown** format with your actual links included:
-
-````markdown
-# Frontend Mentor - Huddle Landing Page with Single Introductory Section
+Huddle Landing Page
 
 This is my solution to the [Huddle landing page with a single introductory section challenge](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0) on Frontend Mentor. It helped me apply responsive layout skills and focus on visual hierarchy and structure.
 
@@ -41,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- **Solution URL:** [https://github.com/ismailtemitope05/huddle-landing-page](https://github.com/ismailtemitope05/huddle-landing-page)
-- **Live Site URL:** [https://ismailtemitope05.github.io/huddle-landing-page](https://ismailtemitope05.github.io/huddle-landing-page)
+- **Solution URL:** [https://github.com/ismailtemitope05/huddle.landing.page](https://github.com/ismailtemitope05/huddle.landing.page)
+.- **Live Site URL:** [https://ismailtemitope05.github.io/huddle.landing.page](https://ismailtemitope05.github.io/huddle.landing.page)
 
 ---
 
